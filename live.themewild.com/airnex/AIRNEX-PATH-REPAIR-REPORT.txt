@@ -1,0 +1,99 @@
+AIRNEX PATH REPAIR REPORT
+
+Source: https://live.themewild.com/airnex/
+
+The live site was analyzed and the downloaded HTTrack source was repaired.
+Missing assets that returned HTTP 429 are referenced back to their live public URLs so the mirrored pages can render while online.
+They are NOT fake/dummy assets. For a fully self-contained offline copy, the actual bytes must be obtained from the source server or purchased package.
+
+Mapped missing assets: 89
+
+assets/fonts/fa-brands-400.html -> https://live.themewild.com/airnex/assets/fonts/fa-brands-400.woff2
+assets/fonts/fa-duotone-900.html -> https://live.themewild.com/airnex/assets/fonts/fa-duotone-900.woff2
+assets/fonts/fa-light-300.html -> https://live.themewild.com/airnex/assets/fonts/fa-light-300.woff2
+assets/fonts/fa-regular-400.html -> https://live.themewild.com/airnex/assets/fonts/fa-regular-400.woff2
+assets/fonts/fa-sharp-light-300.html -> https://live.themewild.com/airnex/assets/fonts/fa-sharp-light-300.woff2
+assets/fonts/fa-sharp-regular-400.html -> https://live.themewild.com/airnex/assets/fonts/fa-sharp-regular-400.woff2
+assets/fonts/fa-sharp-solid-900.html -> https://live.themewild.com/airnex/assets/fonts/fa-sharp-solid-900.woff2
+assets/fonts/fa-solid-900.html -> https://live.themewild.com/airnex/assets/fonts/fa-solid-900.woff2
+assets/fonts/fa-thin-100.html -> https://live.themewild.com/airnex/assets/fonts/fa-thin-100.woff2
+assets/fonts/fa-v4compatibility-2.html -> https://live.themewild.com/airnex/assets/fonts/fa-v4compatibility.woff2
+assets/fonts/fa-v4compatibility.html -> https://live.themewild.com/airnex/assets/fonts/fa-v4compatibility.ttf
+assets/img/about/04.html -> https://live.themewild.com/airnex/assets/img/about/04.jpg
+assets/img/blog/01.html -> https://live.themewild.com/airnex/assets/img/blog/01.jpg
+assets/img/blog/02.html -> https://live.themewild.com/airnex/assets/img/blog/02.jpg
+assets/img/blog/03.html -> https://live.themewild.com/airnex/assets/img/blog/03.jpg
+assets/img/blog/author.html -> https://live.themewild.com/airnex/assets/img/blog/author.jpg
+assets/img/blog/bs-1.html -> https://live.themewild.com/airnex/assets/img/blog/bs-1.jpg
+assets/img/blog/bs-2.html -> https://live.themewild.com/airnex/assets/img/blog/bs-2.jpg
+assets/img/blog/bs-3.html -> https://live.themewild.com/airnex/assets/img/blog/bs-3.jpg
+assets/img/blog/com-1.html -> https://live.themewild.com/airnex/assets/img/blog/com-1.jpg
+assets/img/blog/com-2.html -> https://live.themewild.com/airnex/assets/img/blog/com-2.jpg
+assets/img/blog/com-3.html -> https://live.themewild.com/airnex/assets/img/blog/com-3.jpg
+assets/img/blog/single.html -> https://live.themewild.com/airnex/assets/img/blog/single.jpg
+assets/img/breadcrumb/01.html -> https://live.themewild.com/airnex/assets/img/breadcrumb/01.jpg
+assets/img/coming-soon/01.html -> https://live.themewild.com/airnex/assets/img/coming-soon/01.jpg
+assets/img/cta/01.html -> https://live.themewild.com/airnex/assets/img/cta/01.png
+assets/img/error/404.html -> https://live.themewild.com/airnex/assets/img/error/404.png
+assets/img/faq/01.html -> https://live.themewild.com/airnex/assets/img/faq/01.jpg
+assets/img/gallery/01.html -> https://live.themewild.com/airnex/assets/img/gallery/01.jpg
+assets/img/gallery/02.html -> https://live.themewild.com/airnex/assets/img/gallery/02.jpg
+assets/img/gallery/03.html -> https://live.themewild.com/airnex/assets/img/gallery/03.jpg
+assets/img/gallery/04.html -> https://live.themewild.com/airnex/assets/img/gallery/04.jpg
+assets/img/gallery/05.html -> https://live.themewild.com/airnex/assets/img/gallery/05.jpg
+assets/img/hero/bg.html -> https://live.themewild.com/airnex/assets/img/hero/bg.png
+assets/img/hero/hero-1.html -> https://live.themewild.com/airnex/assets/img/hero/hero-1.png
+assets/img/icon/address.html -> https://live.themewild.com/airnex/assets/img/icon/address.svg
+assets/img/icon/call-2.html -> https://live.themewild.com/airnex/assets/img/icon/call-2.svg
+assets/img/icon/call.html -> https://live.themewild.com/airnex/assets/img/icon/call.svg
+assets/img/icon/clock.html -> https://live.themewild.com/airnex/assets/img/icon/clock.svg
+assets/img/icon/email.html -> https://live.themewild.com/airnex/assets/img/icon/email.svg
+assets/img/icon/energy-saving.html -> https://live.themewild.com/airnex/assets/img/icon/energy-saving.svg
+assets/img/icon/quote.html -> https://live.themewild.com/airnex/assets/img/icon/quote.svg
+assets/img/logo/logo-light.html -> https://live.themewild.com/airnex/assets/img/logo/logo-light.png
+assets/img/marquee/01.html -> https://live.themewild.com/airnex/assets/img/marquee/01.png
+assets/img/partner/03.html -> https://live.themewild.com/airnex/assets/img/partner/03.png
+assets/img/partner/04.html -> https://live.themewild.com/airnex/assets/img/partner/04.png
+assets/img/partner/05.html -> https://live.themewild.com/airnex/assets/img/partner/05.png
+assets/img/portfolio/bg.html -> https://live.themewild.com/airnex/assets/img/portfolio/bg.jpg
+assets/img/portfolio/single.html -> https://live.themewild.com/airnex/assets/img/portfolio/single.jpg
+assets/img/quote/01.html -> https://live.themewild.com/airnex/assets/img/quote/01.jpg
+assets/img/service/01.html -> https://live.themewild.com/airnex/assets/img/service/01.jpg
+assets/img/service/02.html -> https://live.themewild.com/airnex/assets/img/service/02.jpg
+assets/img/service/03.html -> https://live.themewild.com/airnex/assets/img/service/03.jpg
+assets/img/service/04.html -> https://live.themewild.com/airnex/assets/img/service/04.jpg
+assets/img/service/05.html -> https://live.themewild.com/airnex/assets/img/service/05.jpg
+assets/img/service/06.html -> https://live.themewild.com/airnex/assets/img/service/06.jpg
+assets/img/service/single.html -> https://live.themewild.com/airnex/assets/img/service/single.jpg
+assets/img/shape/01.html -> https://live.themewild.com/airnex/assets/img/shape/01.png
+assets/img/shape/05.html -> https://live.themewild.com/airnex/assets/img/shape/05.png
+assets/img/shape/06.html -> https://live.themewild.com/airnex/assets/img/shape/06.png
+assets/img/shape/07.html -> https://live.themewild.com/airnex/assets/img/shape/07.png
+assets/img/shape/08.html -> https://live.themewild.com/airnex/assets/img/shape/08.png
+assets/img/shape/09.html -> https://live.themewild.com/airnex/assets/img/shape/09.png
+assets/img/step/01.html -> https://live.themewild.com/airnex/assets/img/step/01.jpg
+assets/img/step/02.html -> https://live.themewild.com/airnex/assets/img/step/02.jpg
+assets/img/step/03.html -> https://live.themewild.com/airnex/assets/img/step/03.jpg
+assets/img/team/01.html -> https://live.themewild.com/airnex/assets/img/team/01.jpg
+assets/img/team/02.html -> https://live.themewild.com/airnex/assets/img/team/02.jpg
+assets/img/team/03.html -> https://live.themewild.com/airnex/assets/img/team/03.jpg
+assets/img/team/04.html -> https://live.themewild.com/airnex/assets/img/team/04.jpg
+assets/img/testimonial/01.html -> https://live.themewild.com/airnex/assets/img/testimonial/01.jpg
+assets/img/testimonial/02.html -> https://live.themewild.com/airnex/assets/img/testimonial/02.jpg
+assets/img/testimonial/03.html -> https://live.themewild.com/airnex/assets/img/testimonial/03.jpg
+assets/img/testimonial/04.html -> https://live.themewild.com/airnex/assets/img/testimonial/04.jpg
+assets/img/testimonial/05.html -> https://live.themewild.com/airnex/assets/img/testimonial/05.jpg
+assets/js/ScrollTrigger.min.html -> https://live.themewild.com/airnex/assets/js/ScrollTrigger.min.js
+assets/js/SplitText.min.html -> https://live.themewild.com/airnex/assets/js/SplitText.min.js
+assets/js/bootstrap.bundle.min.html -> https://live.themewild.com/airnex/assets/js/bootstrap.bundle.min.js
+assets/js/contact-form.html -> https://live.themewild.com/airnex/assets/js/contact-form.js
+assets/js/countdown.min.html -> https://live.themewild.com/airnex/assets/js/countdown.min.js
+assets/js/counter-up.html -> https://live.themewild.com/airnex/assets/js/counter-up.js
+assets/js/gsap.min.html -> https://live.themewild.com/airnex/assets/js/gsap.min.js
+assets/js/isotope.pkgd.min.html -> https://live.themewild.com/airnex/assets/js/isotope.pkgd.min.js
+assets/js/jquery-3.7.1.min.html -> https://live.themewild.com/airnex/assets/js/jquery-3.7.1.min.js
+assets/js/jquery.appear.min.html -> https://live.themewild.com/airnex/assets/js/jquery.appear.min.js
+assets/js/jquery.magnific-popup.min.html -> https://live.themewild.com/airnex/assets/js/jquery.magnific-popup.min.js
+assets/js/main.html -> https://live.themewild.com/airnex/assets/js/main.js
+assets/js/owl.carousel.min.html -> https://live.themewild.com/airnex/assets/js/owl.carousel.min.js
+assets/js/wow.min.html -> https://live.themewild.com/airnex/assets/js/wow.min.js
